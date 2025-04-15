@@ -8,6 +8,6 @@ class GreetController extends Controller
 {
     public function show()
     {
-        return view('greet'); 
+        return view('greetblade');
     }
 }

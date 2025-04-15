@@ -8,3 +8,4 @@ Route::get('/hello', function () {
 });
 
 Route::get('/greet', [GreetController::class, 'show']);
+
